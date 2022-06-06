@@ -21,7 +21,7 @@ questions for the challenge on a Friday afternoon and completed the challenge
 in about 6 hours the following Monday.  Thus, I think the tasks presented are
 a fair approximation of "real-life" data challenges and my "solution" closely
 resembles my submissions from past challenges in terms of code, comments,
-visualizations, and though process.
+visualizations, and thought process.
 
 If helpful to you in any way, you're welcome.  If nothing else, you might
 learn something about birds.
